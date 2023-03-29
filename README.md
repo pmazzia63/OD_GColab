@@ -1,2 +1,2 @@
 # OD_GColab
-Repository for object detection on Google Colab.
+Repository for object detection on Google Colab. Not updated since a while ...
